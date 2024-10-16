@@ -1,6 +1,6 @@
 ---
 
-### :man_scientist: About Me :
+### 👨‍🔬 About Me :
 
 Hi!
 My name is Sean Lam, a sophomore at Colorado College double majoring in Physics and Chemistry. I am interested in Condensed Matter Physics, Physical Chemistry, and Quantum/Energy Materials.
