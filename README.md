@@ -1,16 +1,19 @@
----
+### 👨‍🔬 About Me:
 
-### 👨‍🔬 About Me :
+Hi! My name is Sean Lam, a sophomore at Colorado College double majoring in Physics and Chemistry. I am interested in Condensed Matter Physics, Physical Chemistry, and Quantum/Energy Materials.
 
-Hi!
-My name is Sean Lam, a sophomore at Colorado College double majoring in Physics and Chemistry. I am interested in Condensed Matter Physics, Physical Chemistry, and Quantum/Energy Materials.
-- :electron: I am working as a Research Intern at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring the usage of quantum algorithms and developing quantum machine learning techniques for the field of Quantum/Energy Materials.
-- :telescope: I also work as a Astrophysics Research Assistant at Colorado College under Dr. Dhanesh Krishnarao, developing <i><b>pyonized</b></i>, a Python package for modeling diffused ionized gas in four dimensions.
+- :electron: I am working as a Research Intern at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring quantum algorithms, machine learning, and electron microscopy.
+- :telescope: I also work as a Astrophysics Research Assistant at Colorado College under Dr. Dhanesh Krishnarao, developing <i><b>pyonized</b></i>, a Python package for modeling diffused ionized gas (DIG) in four dimensions.
 - :running_shirt_with_sash: Outside of academics, I am an NCAA D3 Track & Field Athlete, specialized in sprints, hurdles, and triple jump.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sean-d-lam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.github.com/seanthelam/">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://orcid.org/0009-0009-6546-3501/">
+    <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
 </div>
 
