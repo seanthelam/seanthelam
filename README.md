@@ -1,6 +1,6 @@
 ### 👨‍🔬 About Me:
 
-Hi! My name is Sean Lam, a sophomore at Colorado College double majoring in Physics and Chemistry. I am interested in Astrophysics, Condensed Matter Physics, Physical Chemistry, and Quantum/Functional Materials.
+Hi! My name is Sean Lam, a sophomore at Colorado College double majoring in Physics and Chemistry. I am interested in Astrophysics, Chemical Physics, Quantum Computing, and Quantum/Functional Materials.
 
 - :electron: I am working as a Research Intern at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring quantum algorithms, machine learning, and electron microscopy. I am interested in seeing how I can apply quantum machine learning to enhance microscopy data analysis and simulation.
 - :atom: I am also a Physical Chemistry Researcher at Colorado College under Dr. Sally Meyer, developing Non-Born Oppenheimer Approximations.
