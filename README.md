@@ -1,9 +1,9 @@
 ### 👨‍🔬 About Me:
 
-Hi! My name is Sean Lam, a junior at Colorado College double majoring in Physics and Chemistry. I am interested in Astrophysics, Chemical Physics, Quantum Computing, and Quantum/Functional Materials.
+Hi! My name is Sean Lam, a junior at Colorado College double majoring in Physics and Chemistry. I am interested in research at the intersection of Chemical Physics, Computational Materials Science, and Quantum Information Science. I hope to advance research being conducted in quantum algorithms for specific applications, and someday work in academia and lead a research group.
 
-- :electron: I am working as a Research Intern at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring quantum algorithms, machine learning, and electron microscopy. I am interested in seeing how I can apply quantum machine learning to enhance microscopy data analysis and simulation.
-- :atom: I am also a Physical Chemistry Researcher at Colorado College under Dr. Sally Meyer, developing Non-Born Oppenheimer Approximations. The goal is to improve molecular calculations particularly when the tradition Born-Oppenheimer approximation is inadequate.
+- :electron: I am working as a Research Intern at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring quantum algorithms, machine learning, and electron microscopy. I am interested in seeing how I can apply quantum algorithms to enhance microscopy data analysis and simulation.
+- :atom: I am also a Physical Chemistry Researcher at Colorado College under Dr. Sally Meyer, working on non-adiabatic dynamics.
 - :telescope: I worked as a Astrophysics Research Assistant at Colorado College under Dr. Dhanesh Krishnarao, developing <i><b>pyonized</b></i>, a Python package for modeling diffused ionized gas (DIG) in four dimensions. I am super interested in understanding the chemical composition and dynamics of the ISM.
 - :running_shirt_with_sash: Outside of academics, I am an NCAA D3 Track & Field Athlete, specialized in sprints, hurdles, and jumps. I am President of the SPS Chapter at Colorado College. I also focus on mental health advocacy through Morgan's Message, volunteer as a multimedia content creator for WITHUS, and more.
 
