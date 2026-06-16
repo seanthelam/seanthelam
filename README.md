@@ -2,9 +2,9 @@
 
 Hi! My name is Sean Lam, a rising senior at Colorado College double majoring in Physics and Chemistry. I am interested in computational research at the intersection of Chemical Physics, Materials Science, and Quantum Information Science. I hope to advance research being conducted in materials physics and quantum algorithm applications, and someday work in academia and lead a research group.
 
-- :lab_coat: I am working as a Summer Research Fellow in the XCP Division at Los Alamos National Laboratory, developing software for charged particle transport and materials mixing modeling.
+- :lab_coat: I am working as a Summer Research Fellow in the XCP Division at Los Alamos National Laboratory, developing Fortran software for mixed materials ICF simulations with charged particle transport.
 - :electron: I am working as a Researcher at Northwestern University under Dr. Roberto dos Reis in the VPD Group, exploring quantum algorithms and electron microscopy. I am interested in seeing how I can apply quantum algorithms to enhance microscopy data analysis and simulation.
-- :atom: I am also a Physical Chemistry Researcher at Colorado College under Dr. Sally Meyer, working on non-adiabatic dynamics.
+- :atom: For my senior chemistry thesis, I conducted a DFT study on doped graphene quantum dot structures as potential metal-free electrode materials for hydrogen fuel cells.
 - :telescope: I worked as a Astrophysics Research Assistant at Colorado College under Dr. Dhanesh Krishnarao, developing <i><b>pyonized</b></i>, a Python package for modeling diffused ionized gas (DIG) in four dimensions. I am super interested in understanding the chemical composition and dynamics of the ISM.
 - :running_shirt_with_sash: Outside of academics, I am an NCAA D3 Track & Field Athlete and S&C All-American, specialized in sprints, hurdles, and jumps. I am President of the SPS Chapter at Colorado College. I also focus on mental health advocacy through Morgan's Message, volunteer as a multimedia content creator for WITHUS, and more.
 
