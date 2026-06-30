@@ -17,8 +17,9 @@ Hi! My name is Sean Lam, a rising senior at Colorado College double majoring in 
   <a href="https://orcid.org/0009-0009-6546-3501/">
     <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DcgaUZWYAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao)" alt="Google Scholar Badge"/>
+  <!-- FUTURE ADDITION ONCE CITATIONS AVAILABLE -->
+  <!-- <a href="https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DcgaUZWYAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao)" alt="Google Scholar Badge"/> -->
 </div>
 
 ---
