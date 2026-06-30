@@ -22,6 +22,10 @@ Hi! My name is Sean Lam, a rising senior at Colorado College double majoring in 
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DcgaUZWYAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao)" alt="Google Scholar Badge"/> -->
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sean-d-lam/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/seanthelam)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=cgaUZWYAAAAJ&hl=en&oi=ao)
+[![ORCID](https://img.shields.io/badge/ORCID-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0009-6546-3501)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
